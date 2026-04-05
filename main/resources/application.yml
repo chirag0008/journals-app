@@ -3,7 +3,6 @@ spring:
     name: myFirstProject
   data:
     mongodb:
-        uri: mongodb+srv://chirag1:s3n7Q88JSJlTSN2r@cluster0.c0e5dvo.mongodb.net/journaldb?retryWrites=true&w=majority
         auto-index-creation: true
 server:
   port: 8080
